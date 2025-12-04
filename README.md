@@ -1,20 +1,79 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Lisan Al-Asr Translation (لسان العصر للترجمة)
 
-# Run and deploy your AI Studio app
+**Your Trusted Language Partner in Yemen & Globally**  
+*Authorized translation for embassies, government bodies, and international organizations since 2016.*
 
-This contains everything you need to run your app locally.
+![Lisan Al-Asr Banner](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1VS13FVvWt-l0_79X73gFImL6AIBk4fHj
+## 🏢 About the Business
 
-## Run Locally
+**Lisan Al-Asr (لسان العصر)** is a leading translation agency based in Sana'a, Yemen, licensed by the Ministry of Culture and recognized by UNESCO. We bridge language barriers for individuals and organizations with certified accuracy.
 
-**Prerequisites:**  Node.js
+### Key Stats
+- **8+ Years** of Experience
+- **11+** Certified Translators
+- **5+** Global Languages
+- **24/7** Customer Support
 
+## 🚀 Services offered
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This web application showcases our comprehensive range of services:
+
+1.  **Specialized Translation**: Legal, Medical, Technical, Financial, and Simultaneous Interpretation.
+2.  **Global Services**:
+    - US Visa Lottery (DV Program) Registration.
+    - Study Abroad Applications (China, Turkey, Hungary).
+    - Medical Tourism Coordination (India).
+    - Hajj & Umrah Booking.
+3.  **Academic Support**: Thesis proofreading and research proposal preparation.
+
+## 🛠️ Tech Stack
+
+This project is built as a high-performance Single Page Application (SPA).
+
+- **Framework**: React 18 + Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Localization**: Built-in English (LTR) and Arabic (RTL) support.
+
+## 💻 How to Run Locally
+
+Follow these steps to set up the project on your machine:
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/lisan-al-asr.git
+    cd lisan-al-asr
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run Development Server**
+    ```bash
+    npm run dev
+    ```
+    Open `http://localhost:5173` in your browser.
+
+## 📦 Deployment
+
+This project is optimized for static deployment.
+
+1.  Build the project:
+    ```bash
+    npm run build
+    ```
+2.  Deploy the `dist` folder to any static host like **Vercel**, **Netlify**, or **GitHub Pages**.
+
+## 📞 Contact Us
+
+- **Address**: Sana'a, Yemen
+- **Email**: info@lisanalasr.com
+- **WhatsApp**: +967 77x xxx xxx
+
+---
+*© 2025 Lisan Al-Asr Translation. All rights reserved.*
